@@ -2,16 +2,16 @@
 Re-introduction to JavaScript in the day and age of AI 
 
 ## Approach 
-Problem.md: A clear, stand‑alone problem statement.
+ - **Problem.md:** A clear, stand‑alone problem statement.
 
-README.md: Professional documentation covering:
+ - **README.md:** Professional documentation covering:
 
-Objective & context
+    - Objective & context
 
-ES6+ features used
+    - ES6+ features used
 
-Solution approach & trade‑offs
+    - Solution approach & trade‑offs
 
-Testing instructions
+    - Testing instructions
 
-solution.js: Fully commented code with unit tests.
+ - **solution.js:** Fully commented code with unit tests.
