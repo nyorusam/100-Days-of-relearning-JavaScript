@@ -1,0 +1,21 @@
+# Build and Generation Scripts
+*.js
+*.ps1
+
+# Exception: Keep solution files in daily directories
+!Day*/solution.js
+
+# Backup files
+backup-*
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
